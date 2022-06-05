@@ -1,0 +1,8 @@
+D:\20-35\!ДЗ\001\Sorting Bubble\Sorting Bubble ver 3\Sorting Bubble ver 3\Sorting Bubble ver 3\bin\Debug\Sorting Bubble ver 3.exe.config
+D:\20-35\!ДЗ\001\Sorting Bubble\Sorting Bubble ver 3\Sorting Bubble ver 3\Sorting Bubble ver 3\bin\Debug\Sorting Bubble ver 3.exe
+D:\20-35\!ДЗ\001\Sorting Bubble\Sorting Bubble ver 3\Sorting Bubble ver 3\Sorting Bubble ver 3\bin\Debug\Sorting Bubble ver 3.pdb
+D:\20-35\!ДЗ\001\Sorting Bubble\Sorting Bubble ver 3\Sorting Bubble ver 3\Sorting Bubble ver 3\obj\Debug\Sorting Bubble ver 3.csproj.AssemblyReference.cache
+D:\20-35\!ДЗ\001\Sorting Bubble\Sorting Bubble ver 3\Sorting Bubble ver 3\Sorting Bubble ver 3\obj\Debug\Sorting Bubble ver 3.csproj.SuggestedBindingRedirects.cache
+D:\20-35\!ДЗ\001\Sorting Bubble\Sorting Bubble ver 3\Sorting Bubble ver 3\Sorting Bubble ver 3\obj\Debug\Sorting Bubble ver 3.csproj.CoreCompileInputs.cache
+D:\20-35\!ДЗ\001\Sorting Bubble\Sorting Bubble ver 3\Sorting Bubble ver 3\Sorting Bubble ver 3\obj\Debug\Sorting Bubble ver 3.exe
+D:\20-35\!ДЗ\001\Sorting Bubble\Sorting Bubble ver 3\Sorting Bubble ver 3\Sorting Bubble ver 3\obj\Debug\Sorting Bubble ver 3.pdb
